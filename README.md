@@ -17,10 +17,10 @@
    - **Clone the repository**
    - **install npm**
    - **install dependencies**
-      - > react
-      - > react-redux
-      - > bootstrap
-      - > reactstrap
-      - > Victory Chart
+      - `react`
+      - `react-redux`
+      - `bootstrap`
+      - `reactstrap`
+      - `Victory Chart`
    - **run command**
-      - > npm start
+      - `npm start`
